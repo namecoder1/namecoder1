@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://wakatime.com/badge/user/018edc23-7885-44d3-8b1a-efd38be8a6f6.svg
 
 <!--
 **namecoder1/namecoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
