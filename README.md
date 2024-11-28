@@ -5,7 +5,7 @@
 My name is Tobia Bartolomei, i'm a Junior FrontEnd Web Dev.
 I'm 20, and i'm from Pesaro, IT 🇮🇹
 <br>
-🔭 I’m currently in [cs50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+🔭 I’m currently in love with [Sanity.io](https://sanity.io)
 <br>
 🌱 I’m learning [Next.js](https://nextjs.org/)
 
