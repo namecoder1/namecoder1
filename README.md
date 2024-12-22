@@ -10,5 +10,5 @@ I'm 20, and i'm from Pesaro, IT 🇮🇹
 🌱 I’m learning [Next.js](https://nextjs.org/)
 
 
-
+<a href="https://app.daily.dev/tobiabartolomei"><img src="https://api.daily.dev/devcards/v2/jToMLTCRPmUKzPA7OM89z.png?type=default&r=s6u" width="356" alt="Tobia Bartolomei's Dev Card"/></a>
 
