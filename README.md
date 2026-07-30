@@ -3,14 +3,15 @@
 
 ## Tobia Bartolomei
 
-Full-Stack Developer & indie builder — costruisco prodotti web e mobile che risolvono problemi reali.
-Attualmente al lavoro su **Smartables** · AI per ristoranti.
+Full-Stack Developer & indie builder, building web and mobile products that solve real problems.
+Currently learning Rust and Tauri, along with a thousand other things.
+Currently working on Smartables · AI for restaurants.
 
 ---
 
 ### Stack
 
-`Next.js` `React` `TypeScript` `Tailwind` `Node.js` `Supabase` `Stripe` `React Native` `Expo`
+`Next.js` `React` `TypeScript` `Tailwind` `Node.js` `Supabase` `Stripe` `React Native` `Expo` `Tauri` `Rust` `Python` `PostgreSQL`
 
 ---
 
@@ -18,9 +19,10 @@ Attualmente al lavoro su **Smartables** · AI per ristoranti.
 
 | Progetto | Descrizione | Stato |
 |---|---|---|
-| **Smartables** | AI per ristoranti — risponde alle chiamate, invia menu via WhatsApp, recupera prenotazioni perse | 🚧 In sviluppo |
-| **Scroll Debt** | App mobile per ridurre il doomscrolling e riprendere il controllo del tempo schermo | ✅ Su TestFlight |
+| **Smartables** | AI for restaurants — answers calls, sends menus via WhatsApp, recovers lost bookings | 🚧 In development |
+| **Scroll Debt** | Mobile app to reduce doomscrolling and take back control of screen time | ✅ On TestFlight |
+| **Exhale** | Mobile app to help people quitting smoking stay on track without relapsing | 🚧 In development |
 
 ---
 
-🌐 **tob.codes** · 💼 Open to freelance & collaborazioni
+🌐 **tob.codes** · 💼 Open to freelance & collaborations
