@@ -21,7 +21,7 @@ Currently working on Smartables · AI for restaurants.
 |---|---|---|
 | **Smartables** | AI for restaurants — answers calls, sends menus via WhatsApp, recovers lost bookings | 🚧 In development |
 | **Scroll Debt** | Mobile app to reduce doomscrolling and take back control of screen time | ✅ On TestFlight |
-| **Exhale** | Mobile app to help people quitting smoking stay on track without relapsing | 🚧 In development |
+| **Exhale** | Mobile app to help people quitting smoking stay on track without relapsing | ✅ On TestFlight |
 
 ---
 
