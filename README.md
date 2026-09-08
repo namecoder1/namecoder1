@@ -15,9 +15,9 @@ Currently working on Smartables · AI for restaurants.
 
 ---
 
-### Progetti
+### Projects
 
-| Progetto | Descrizione | Stato |
+| Project | Description | Status |
 |---|---|---|
 | **Smartables** | AI for restaurants — answers calls, sends menus via WhatsApp, recovers lost bookings | 🚧 In development |
 | **Scroll Debt** | Mobile app to reduce doomscrolling and take back control of screen time | ✅ On TestFlight |
