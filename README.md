@@ -3,7 +3,7 @@
 
 ## Tobia Bartolomei
 
-Full-Stack Developer & indie builder, building web and mobile products that solve real problems.
+Front-end Developer & indie builder, building web and mobile products that solve real problems.
 Currently learning Rust and Tauri, along with a thousand other things.
 Currently working on Smartables · AI for restaurants.
 
